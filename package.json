@@ -1,6 +1,6 @@
 {
   "name": "1guess_number_game",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a number guessing CLI game  we made it by typescript ,nodejs,JSand inquirer",
   "main": "main.js",
   "type": "module",
